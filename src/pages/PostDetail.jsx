@@ -1,6 +1,9 @@
 // 실습 3: 게시글 상세 페이지 만들어 이동하기
 //
-// useParams로 URL의 id 값을 읽고, posts 배열에서 그 id와 일치하는 게시글을 찾아 보여주세요.
+// TODO 1. useParams로 URL의 id 값을 가져오세요.
+// TODO 2. posts 배열에서 그 id와 일치하는 게시글을 찾으세요.
+// TODO 3. 찾은 게시글의 title, description, content를 화면에 보여주세요.
+
 // post 안에는 아래 값들이 들어있습니다.
 //   - title: 제목
 //   - description: 한 줄 설명

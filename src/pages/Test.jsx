@@ -1,6 +1,7 @@
 // 실습 1: Button 컴포넌트 만들기
 
 import * as S from "../styles/page.style.js";
+import Button from "../components/Button.jsx";
 
 const Test = () => {
   return (
